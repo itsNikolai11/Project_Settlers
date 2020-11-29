@@ -1,5 +1,16 @@
 package no.nkopperudmoen;
 
-public class Settlers {
+import org.bukkit.plugin.java.JavaPlugin;
+
+public class Settlers extends JavaPlugin {
+
+    public void onEnable() {
+
+    }
+
+    public void onDisable() {
+
+
+    }
 
 }
